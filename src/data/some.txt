@@ -1,0 +1,253 @@
+코리아	코리아/NNP	유러펀드	유러펀드/NNP	/	//SP	5천만	5/SN + 천만/NR	불	불__08/NNB	내달	내달/NNG	증자	증자__04/NNG	/	//SP	외국인	외국인/NNG	수익	수익__01/NNG	증권	증권__01/NNG	9천만불	9/SN + 천만/NR + 불__08/NNB	신설	신설__03/NNG	
+공모주	공모주/NNG	청약	청약/NNG	월	월__02/NNG	1회로	1/SN + 회/NNB + 로/JKB	/	//SP	규모도	규모/NNG + 도/JX	3백억∼4백억	3/SN + 백억/NR + ∼/SO + 4/SN + 백억/NR	원으로	원__01/NNB + 으로/JKB	축소	축소__02/NNG	
+20P	20/SN + P/SL	뛰어	뛰__01/VV + 어/EC	9백	9/SN + 백/NR	30	30/SN	육박	육박__02/NNG	/	//SP	상한가	상한__01/NNG + 가/XSN	4백	4/SN + 백/NR	66개	66/SN + 개/NNB	기록(시황)	기록__02/NNG + (/SS + 시황__01/NNG + )/SS	
+공산권	공산__05/NNG + 권/XSN	직접	직접/MAG	투자	투자__02/NNG	늘려	늘리/VV + 어/EC	/	//SP	전경련	전경련/NNP	회장단	회장단/NNG	회견	회견/NNG	/	//SP	단순	단순__02/NNG	교역서	교역__01/NNG + 서/JKB	전환	전환__03/NNG	
+월계등	월계/NNP + 등__05/NNB	25개	25/SN + 개/NNB	지구	지구__03/NNG	2백	2/SN + 백/NR	66만평	66/SN + 만/NR + 평/NNB	/	//SP	택지	택지__01/NNG	개발	개발/NNG	고시	고시__04/NNG	
+임직원	임직원/NNG	명의	명/NNB + 의/JKG	토지매입	토지__02/NNG + 매입/NNG	투기차원	투기__04/NNG + 차원__01/NNG	중과세	중과세/NNG	방침	방침__02/NNG	/	//SP	서	서/NNP	국세청장	국세청장/NNG	밝혀	밝히/VV + 어/EC	
+공개념	공개념/NNG	법안	법안__01/NNG	시행령	시행령/NNG	10일까지	10/SN + 일/NNB + 까지/JX	입법	입법/NNG	예고	예고__01/NNG	
+무역	무역__02/NNG	분쟁	분쟁__03/NNG	중재	중재__02/NNG	규정	규정__04/NNG	절차	절차__02/NNG	등	등__05/NNB	대폭	대폭/MAG	간소화	간소/XR + 화/XSN	
+태평양	태평양/NNP	그룹	그룹__01/NNG	임원	임원__01/NNG	인사	인사__03/NNG	/	//SP	전자	전자__06/NNG	사장에	사장__15/NNG + 에/JKB	한정섭씨	한정섭/NNP + 씨/NNB	
+'합당주가'	'/SS + 합당/NNG + 주가__05/NNG + '/SS	부양	부양__02/NNG	적극	적극/NNG	개입	개입/NNG	/	//SP	재무부	재무/NNG + 부__15/NNG	/	//SP	투신-증권업협에	투신__02/NNG + -/SS + 증권업협/NNG + 에/JKB	주식	주식__03/NNG	매입	매입/NNG	지시	지시__02/NNG	
+증권사	증권사/NNG	순익	순익/NNG	증가율	증가__01/NNG + 율/XSN	둔화	둔화/NNG	/	//SP	작년	작년/NNG	/	//SP	위탁수수료율	위탁/NNG + 수수료/NNG + 율/XSN	인하	인하/NNG	등	등__05/NNB	영향	영향__04/NNG	
+기관	기관__11/NNG	부축	부축__01/NNG	힘입어	힘입/VV + 어/EC	9백선	9/SN + 백/NR + 선__14/NNG	회복(시황)	회복/NNG + (/SS + 시황__01/NNG + )/SS	
+2천	2/SN + 천/NR	8백개	8/SN + 백/NR + 개/NNB	업체	업체/NNG	법인세	법인세/NNG	조사	조사__30/NNG	/	//SP	비제조업	비/XPN + 제조업/NNG	중심	중심__01/NNG	세무	세무__04/NNG	강화	강화__06/NNG	
+설비	설비__02/NNG	확장	확장/NNG	업체	업체/NNG	등은	등__05/NNB + 은/JX	조사	조사__30/NNG	대상서	대상__11/NNG + 서/JKB	제외	제외__02/NNG	/	//SP	국세청	국세청/NNG	방침…	방침__02/NNG + …/SE	과소비	과/XPN + 소비__05/NNG	규제	규제/NNG	등	등__05/NNB	특별	특별/NNG	기준	기준/NNG	마련	마련/NNG	
+신설	신설__03/NNG	도로	도로__07/NNG	노폭	노폭/NNG	넓힌다	넓히/VV + ㄴ다/EC	/	//SP	최소폭	최소__01/NNG + 폭__06/NNG	3m로	3/SN + m/SL + 로/JKB	/	//SP	급커브	급커브/NNG	감소	감소__01/NNG	의무화	의무__01/NNG + 화/XSN	방침	방침__02/NNG	
+한중	한/NNP + 중/NNP	천억	천억/NR	추가	추가__02/NNG	출자	출자/NNG	/	//SP	정부-한전…	정부__08/NNG + -/SS + 한전/NNP + …/SE	경영진	경영진/NNG	전면	전면__01/NNG	개편	개편__01/NNG	
+한상공	한/NNP + 상공__07/NNG	청와대	청와대/NNP	보고	보고__03/NNG	
+전기	전기__15/NNG	기본료	기본료/NNG	올리고	올리__01/VV + 고/EC	전력량	전력량/NNG	요금	요금__01/NNG	내려야	내리/VV + 어야/EC	/	//SP	에너지연	에너지연/NNG	세미나	세미나/NNG	
+아파트	아파트/NNG	공장	공장__02/NNG	건설	건설/NNG	지원	지원__02/NNG	/	//SP	2백	2/SN + 백/NR	40사에	40/SN + 사__18/NNG + 에/JKB	3백	3/SN + 백/NR	60억	60/SN + 억/NR	
+외자	외자__07/NNG	기업	기업__01/NNG	신규진출	신규/NNG + 진출__02/NNG	주춤	주춤/MAG	/	//SP	작년	작년/NNG	329사…	329/SN + 사__18/NNG + …/SE	41	41/SN	개사	개/NNB + 사__18/NNG	줄어	줄/VV + 어/EC	
+쇠고기	쇠고기/NNG	한미	한/NNP + 미/NNP	협상	협상__01/NNG	결렬되자	결렬/NNG + 되/XSV + 자/EC	미,	미/NNP + ,/SP	업계간	업계__01/NNG + 간__10/NNB	협상	협상__01/NNG	모색	모색__03/NNG	
+한국산	한국/NNP + 산/XSN	전화	전화__07/NNG	시스템	시스템/NNG	덤핑	덤핑/NNG	피해	피해__01/NNG	최종	최종/NNG	판정	판정/NNG	/	//SP	미	미/NNP	국제	국제__02/NNG	무역위	무역위/NNG	
+철강	철강/NNG	수출	수출__03/NNG	협정량	협정/NNG + 량__05/NNG	미달	미달/NNG	/	//SP	협정	협정/NNG	대상국	대상국/NNG	제외키로	제외__02/NNG + 하/XSV + 기/ETN + 로/JKB	/	//SP	EC집행위	EC/SL + 집행위/NNG	
+4일만에	4/SN + 일/NNB + 만__01/NNB + 에/JKB	반등…	반등__01/NNG + …/SE	8백	8/SN + 백/NR	70선	70/SN + 선__14/NNG	회복(시황)	회복/NNG + (/SS + 시황__01/NNG + )/SS	
+부동산	부동산/NNG	투기	투기__04/NNG	억제-미얀마	억제/NNG + -/SS + 미얀마/NNP	유전	유전__02/NNG	개발설로	개발설/NNG + 로/JKB	
+상장사	상장사/NNG	정관	정관__03/NNG	개정	개정__02/NNG	활발	활발/XR	/	//SP	전환	전환__03/NNG	사채	사채__02/NNG	등	등__05/NNB	신종	신종__09/NNG	사채	사채__02/NNG	발행	발행__01/NNG	목적	목적__03/NNG	
+생보사	생보사/NNG	/	//SP	탈퇴형	탈퇴/NNG + 형/XSN	보험	보험/NNG	내달	내달/NNG	시한"비상"	시한__02/NNG + "/SS + 비상__01/NNG + "/SS	/	//SP	"수입	"/SS + 수입__01/NNG	30%"기한	30/SN + %/SW + "/SS + 기한__03/NNG	연장	연장__05/NNG	요구	요구__03/NNG	
+영세	영세__04/NNG	소기업	소/XPN + 기업__01/NNG	천억	천억/NR	지원	지원__02/NNG	/	//SP	중기은	중기은/NNP	2천업소	2/SN + 천/NR + 업소/NNG	새로	새로/MAG	발굴	발굴/NNG	
+지방	지방__05/NNG	이전	이전__08/NNG	업체	업체/NNG	3백	3/SN + 백/NR	억원	억/NR + 원__01/NNB	지원	지원__02/NNG	
+전세	전세__07/NNG	급등에	급등/NNG + 에/JKB	아파트값마저	아파트/NNG + 값/NNG + 마저/JX	들먹	들먹/XR	/	//SP	호가만	호가__02/NNG + 만/JX	무성…	무성/XR + …/SE	실거래	실__07/NNG + 거래__02/NNG	뜸해	뜸하/VA + 아/EC	
+서울	서울/NNP	중대형	중대형/NNG	일부	일부__02/NNG	오름세	오름세/NNG	/	//SP	눈치	눈치/NNG	속	속__01/NNG	매물	매물__02/NNG	회수…	회수__01/NNG + …/SE	여타	여타__01/NNG	지역	지역__03/NNG	강보합세	강보합세/NNG	
+"유가	"/SS + 유가__03/NNG	2년	2/SN + 년__02/NNB	간	간__10/NNB	걱정	걱정/NNG	없다"	없/VA + 다/EC + "/SS	/	//SP	예비	예비__02/NNG	자금	자금__08/NNG	2조	2/SN + 조/NR	넘어	넘__01/VV + 어/EC	
+환경	환경__02/NNG	개선	개선__01/NNG	2천	2/SN + 천/NR	7백억	7/SN + 백억/NR	투입	투입/NNG	/	//SP	동자부	동자부/NNG	
+수출	수출__03/NNG	대미편중	대미__04/NNG + 편중/NNG	완화	완화__02/NNG	/	//SP	아주	아주/MAG	최대	최대/NNG	시장	시장__04/NNG	부상	부상__06/NNG	
+한미	한/NNP + 미/NNP	통상산업위	통상__01/NNG + 산업위/NNG	설립	설립__02/NNG	/	//SP	통상	통상__01/NNG	장관	장관__02/NNG	회담	회담/NNG	합의…	합의__01/NNG + …/SE	통신	통신__01/NNG	개방	개방__04/NNG	이견	이견/NNG	못	못/MAG	좁혀	좁히__01/VV + 어/EC	
+국산	국산/NNG	경수로형	경수로/NNG + 형/XSN	핵연료	핵연료/NNG	/	//SP	원자로	원자로/NNG	첫	첫/MM	장전	장전__13/NNG	
+신금	신금__88/NNG	3분의	3/SN + 분/XSN + 의/JKG	1	1/SN	/	//SP	대기업서	대/XPN + 기업__01/NNG + 서/JKB	소유	소유__03/NNG	
+섬유류	섬유/NNG + 류/XSN	전문	전문__08/NNG	업체	업체/NNG	/	//SP	창업을	창업/NNG + 을/JKO	적극	적극/NNG	지원	지원__02/NNG	
+증시	증시__88/NNG	연일	연일__01/NNG	최저치	최저__01/NNG + 치/XSN	"붕괴위기"(시황)	"/SS + 붕괴/NNG + 위기__01/NNG + "/SS + (/SS + 시황__01/NNG + )/SS	
+지수	지수__07/NNG	5P내려	5/SN + P/SL + 내리/VV + 어/EC	8백	8/SN + 백/NR	40대	40/SN + 대__06/NNB	/	//SP	기관매수	기관__11/NNG + 매수__02/NNG	역부족…	역부족/NNG + …/SE	금융주	금융/NNG + 주__24/NNG	부채질	부채__01/NNG + 질/XSN	
+대동-충청은	대동/NNP + -/SS + 충청은/NNP	이사	이사__11/NNG	선임	선임__03/NNG	
+공약사업	공약__01/NNG + 사업__04/NNG	등	등__05/NNB	정부	정부__08/NNG	투자	투자__02/NNG	우선	우선/MAG	순위	순위/NNG	전면	전면__01/NNG	재조정	재/XPN + 조정__09/NNG	/	//SP	경제	경제__04/NNG	장관	장관__02/NNG	회의	회의__04/NNG	
+안정	안정__01/NNG	기조	기조__01/NNG	훼손	훼손/NNG	우려	우려/NNG	/	//SP	임대료	임대료/NNG	등록	등록__01/NNG	/	//SP	서울-부산	서울/NNP + -/SS + 부산/NNP	선별	선별/NNG	시행	시행__01/NNG	/	//SP	고속전철-2국제공항	고속__02/NNG + 전철__04/NNG + -/SS + 2/SN + 국제공항/NNG	연기될	연기__05/NNG + 되/XSV + ㄹ/ETM	듯	듯/NNB	
+북한	북한/NNP	경제	경제__04/NNG	개방	개방__04/NNG	가능성	가능/NNG + 성/XSN	/	//SP	KDI	KDI/SL	보고서	보고서/NNG	/	//SP	개발부진…	개발/NNG + 부진__01/NNG + …/SE	경제	경제__04/NNG	효율	효율/NNG	제고	제고__03/NNG	고심	고심__02/NNG	
+기계	기계__07/NNG	공업	공업__01/NNG	분야	분야/NNG	이직률	이직__05/NNG + 률/XSN	고용	고용__03/NNG	증가율의	증가__01/NNG + 율/XSN + 의/JKG	3배	3/SN + 배__09/NNG	/	//SP	자동화	자동__01/NNG + 화/XSN	투자-감량	투자__02/NNG + -/SS + 감량__01/NNG	탓	탓/NNG	
+중국에	중국/NNP + 에/JKB	한국	한국/NNP	공단	공단__01/NNG	조사단	조사단/NNG	파견	파견__01/NNG	타당성	타당/XR + 성/XSN	조사	조사__30/NNG	/	//SP	민관협	민관협/NNG	구성	구성__07/NNG	세제-금융	세제__05/NNG + -/SS + 금융/NNG	지원	지원__02/NNG	
+전자수출	전자__06/NNG + 수출__03/NNG	구미	구미/NNP	편중	편중/NNG	/	//SP	규제	규제/NNG	심해	심하/VA + 아/EC	신장	신장__04/NNG	둔화	둔화/NNG	
+중기	중기__88/NNG	협동화	협동/NNG + 화/XSN	사업	사업__04/NNG	부진	부진__01/NNG	/	//SP	업계	업계__01/NNG	자금-용지	자금__08/NNG + -/SS + 용지__02/NNG	구입난	구입난/NNG	호소	호소__01/NNG	
+증권주	증권__01/NNG + 주__24/NNG	신용	신용__01/NNG	거래	거래__02/NNG	시작	시작__01/NNG	/	//SP	증관위	증관위/NNG	확정	확정__02/NNG	/	//SP	계좌	계좌__02/NNG	개설	개설__02/NNG	3	3/SN	개월	개월/NNB	지나야	지나/VV + 아야/EC	가능	가능/NNG	
+포철	포철/NNP	'기업집단'제외	'/SS + 기업__01/NNG + 집단/NNG + '/SS + 제외__02/NNG	논란	논란/NNG	/	//SP	공정	공정__02/NNG	거래법	거래법/NNG	예외	예외/NNG	대상에	대상__11/NNG + 에/JKB	
+"특정	"/SS + 특정/NNG	업체	업체/NNG	위한	위하__01/VV + ㄴ/ETM	법률	법률/NNG	운용이다"	운용/NNG + 이/VCP + 다/EC + "/SS	비난	비난/NNG	일어	일__01/VV + 어/EC	
+유화	유화__02/NNG	업계	업계__01/NNG	부당	부당__01/NNG	스카우트	스카우트/NNG	방지	방지__04/NNG	대책	대책__03/NNG	마련	마련/NNG	/	//SP	기존사	기존사/NNG	사전	사전__13/NNG	동의	동의__02/NNG	의무화	의무__01/NNG + 화/XSN	
+협회엔	협회/NNG + 에/JKB + ㄴ/JX	조정위	조정위/NNG	설치	설치__02/NNG	
+주가	주가__05/NNG	8백	8/SN + 백/NR	40	40/SN	붕괴…	붕괴/NNG + …/SE	최저치	최저__01/NNG + 치/XSN	접근(시황)	접근/NNG + (/SS + 시황__01/NNG + )/SS	
+컨테이너	컨테이너/NNG	수입	수입__02/NNG	54품목	54/SN + 품목__01/NNG	/	//SP	내장	내장__05/NNG	상태로	상태__01/NNG + 로/JKB	통관	통관__06/NNG	허용	허용/NNG	
+30대	30/SN + 대__04/NNG	재벌,	재벌__02/NNG + ,/SP	제	제/XPN	2금융	2/SN + 금융/NNG	금고"독식"	금고__02/NNG + "/SS + 독식/NNG + "/SS	/	//SP	편중	편중/NNG	여신	여신__05/NNG	규제	규제/NNG	실효	실효__02/NNG	못	못/MAG	거둬	거두/VV + 어/EC	
+지난해	지난해/NNG	투금	투금/NNG	등서	등__05/NNB + 서/JKB	5조	5/SN + 조/NR	6천억	6/SN + 천억/NR	갖다	갖/VV + 다/EC	써	쓰__03/VV + 어/EC	/	//SP	일년새	일/NR + 년__02/NNB + 새__01/NNG	8백	8/SN + 백/NR	70%	70/SN + %/SW	증가	증가__01/NNG	
+최장	최장/NNG	1년	1/SN + 년__02/NNB	적체	적체__02/NNG	중대형	중대형/NNG	트럭-버스	트럭/NNG + -/SS + 버스__02/NNG	/	//SP	5월께	5/SN + 월/NNB + 께/XSN	공급	공급__02/NNG	호전될	호전__05/NNG + 되/XSV + ㄹ/ETM	듯	듯/NNB	
+현대	현대/NNP	등	등__05/NNB	부품	부품/NNG	공급	공급__02/NNG	원활	원활/NNG	
+중기	중기__88/NNG	작년	작년/NNG	수출	수출__03/NNG	호조	호조__04/NNG	/	//SP	2백	2/SN + 백/NR	41억불…	41/SN + 억/NR + 불__08/NNB + …/SE	신장률	신장__04/NNG + 률/XSN	대기업	대/XPN + 기업__01/NNG	추월	추월__01/NNG	
+한-동독	한/NNP + -/SS + 동독/NNP	무역	무역__02/NNG	사무소	사무소/NNG	/	//SP	상반기	상반기/NNG	중	중__04/NNB	교환	교환__01/NNG	설치	설치__02/NNG	/	//SP	내달	내달/NNG	협정서	협정서/NNG	조인	조인__04/NNG	
+한-미	한/NNP + -/SS + 미/NNP	통상협력위	통상__01/NNG + 협력위/NNG	/	//SP	5월까지	5/SN + 월/NNB + 까지/JX	발족	발족__02/NNG	합의	합의__01/NNG	
+강원	강원/NNP	내륙-동서	내륙/NNG + -/SS + 동서__04/NNG	해안	해안__02/NNG	땅값	땅값/NNG	급등	급등/NNG	/	//SP	"남북	"/SS + 남북/NNP	관계	관계__05/NNG	개선"	개선__01/NNG + "/SS	투기꾼	투기__04/NNG + 꾼/XSN	설쳐	설치__01/VV + 어/EC	
+신발	신발/NNG	업계서도	업계__01/NNG + 서/JKB + 도/JX	임금	임금__03/NNG	공동	공동__02/NNG	교섭	교섭/NNG	
+4일째	4/SN + 일/NNB + 째/XSN	4p씩	4/SN + p/SL + 씩/XSN	하락(시황)	하락/NNG + (/SS + 시황__01/NNG + )/SS	
+근로자	근로자/NNG	주택	주택/NNG	정부	정부__08/NNG	지원	지원__02/NNG	확대	확대__02/NNG	건의	건의__01/NNG	/	//SP	수출업체-박	수출__03/NNG + 업체/NNG + -/SS + 박/NNP	상공	상공__07/NNG	간담회	간담회/NNG	
+노동	노동__03/NNG	관련법	관련/NNG + 법/NNG	개정	개정__02/NNG	요구	요구__03/NNG	/	//SP	"엔화	"/SS + 엔화/NNG	환율	환율/NNG	정책	정책__02/NNG	반영해야"	반영__01/NNG + 하/XSV + 아야/EC + "/SS	/	//SP	법정	법정__02/NNG	휴일	휴일/NNG	축소도	축소__02/NNG + 도/JX	주장	주장__03/NNG	
+"1불	"/SS + 1/SN + 불__08/NNB	7백	7/SN + 백/NR	원	원__01/NNB	넘어선다"	넘어서/VV + ㄴ다/EC + "/SS	달러	달러/NNG	계속	계속/MAG	강세…	강세__03/NNG + …/SE	21일새	21/SN + 일/NNB + 새__01/NNG	4	4/SN	원	원__01/NNB	50전	50/SN + 전__24/NNB	올라	오르/VV + 아/EC	
+분당	분당/NNP	2차분	2/SN + 차/NNB + 분/XSN	내일	내일/NNG	발표	발표__01/NNG	
+호황-과소비	호황/NNG + -/SS + 과/XPN + 소비__05/NNG	업소	업소/NNG	/	//SP	세무	세무__04/NNG	조사	조사__30/NNG	등	등__05/NNB	강화	강화__06/NNG	
+증권사	증권사/NNG	올	올/MM	배당률	배당__02/NNG + 률/XSN	5∼2%로	5/SN + ∼/SO + 2/SN + %/SW + 로/JKB	결정	결정__01/NNG	
+불황-자금난	불황__01/NNG + -/SS + 자금난/NNG	불구	불구/XR	/	//SP	투신-주식	투신__02/NNG + -/SS + 주식__03/NNG	열올려	열__07/NNG + 올리__01/VV + 어/EC	/	//SP	89	89/SN	자금	자금__08/NNG	국내	국내__02/NNG	기업	기업__01/NNG	동향	동향__03/NNG	
+"성장	"/SS + 성장__01/NNG	위주	위주/NNG	급회전"에	급회전/NNG + "/SS + 에/JKB	연일	연일__01/NNG	철야	철야/NNG	/	//SP	경제	경제__04/NNG	활성화	활성/NNG + 화/XSN	발표	발표__01/NNG	뒷얘기	뒷얘기/NNG	
+이	이/MM	부총리	부총리/NNG	"경제	"/SS + 경제__04/NNG	난국은	난국__04/NNG + 은/JX	정부	정부__08/NNG	책임"	책임/NNG + "/SS	강조	강조__02/NNG	/	//SP	금리인하-무역금융은	금리__01/NNG + 인하/NNG + -/SS + 무역__02/NNG + 금융/NNG + 은/JX	일찌감치	일찌감치/MAG	제외	제외__02/NNG	
+설득	설득/NNG	작업에	작업__01/NNG + 에/JKB	초점	초점__03/NNG	
+실명제	실명__05/NNG + 제/XSN	보류에	보류__01/NNG + 에/JKB	떨떠름	떨떠름/XR	
+"동의보감	"/SS + 동의보감/NNP	처방	처방/NNG	선택"	선택/NNG + "/SS	
+8백	8/SN + 백/NR	30선	30/SN + 선__14/NNG	붕괴(시황)	붕괴/NNG + (/SS + 시황__01/NNG + )/SS	
+무역	무역__02/NNG	금융	금융/NNG	단가	단가__02/NNG	올린다	올리__01/VV + ㄴ다/EC	/	//SP	내일부터…	내일/NNG + 부터/JX + …/SE	달러당	달러/NNG + 당/XSN	50-1백원씩	50/SN + -/SS + 백/NR + 원__01/NNB + 씩/XSN	
+공항	공항__02/NNG	터미널	터미널/NNG	10일	10/SN + 일/NNB	개장	개장__07/NNG	
+근소세	근소세/NNG	공제	공제__07/NNG	한도	한도__02/NNG	확대	확대__02/NNG	/	//SP	2단계	2/SN + 단계__03/NNG	세제	세제__05/NNG	개편안	개편__01/NNG + 안__04/NNG	내달중	내달/NNG + 중__04/NNB	공청회	공청회/NNG	개최	개최/NNG	
+주택	주택/NNG	임대료	임대료/NNG	일부	일부__02/NNG	세감면	세__10/NNG + 감면__02/NNG	
+"부동산	"/SS + 부동산/NNG	투기	투기__04/NNG	억제	억제/NNG	더	더/MAG	보완해야"	보완/NNG + 하/XSV + 아야/EC + "/SS	/	//SP	'경제	'/SS + 경제__04/NNG	대책'	대책__03/NNG + '/SS	반응	반응/NNG	
+수도권	수도__09/NNG + 권/XSN	지역	지역__03/NNG	호황	호황/NNG	업종	업종__01/NNG	/	//SP	소득	소득/NNG	표본	표본/NNG	조사	조사__30/NNG	
+맥	맥__01/NNG	없이	없이/MAG	무너진	무너지/VV + ㄴ/ETM	8백선…	8/SN + 백/NR + 선__14/NNG + …/SE	객장	객장__02/NNG	스케치	스케치/NNG	
+투자자	투자자/NNG	"정부가	"/SS + 정부__08/NNG + 가/JKS	끝내	끝내/MAG	나	나/NP	몰라라	모르/VV + 아라/EC	하겠느냐"	하/VV + 겠/EP + 느냐/EC + "/SS	/	//SP	"증시	"/SS + 증시__88/NNG	계속	계속/MAG	방치땐	방치__06/NNG + 때__01/NNG + ㄴ/JX	7백	7/SN + 백/NR	50선도	50/SN + 선__14/NNG + 도/JX	안심	안심__04/NNG	못해"	못/MAG + 하/VV + 아/EC + "/SS	
+증시	증시__88/NNG	외면	외면__03/NNG	가속화	가속__01/NNG + 화/XSN	우려	우려/NNG	
+직원들	직원__03/NNG + 들/XSN	거센	거세/VA + ㄴ/ETM	항의	항의__01/NNG	예상	예상__02/NNG	
+묘책	묘책__01/NNG	못	못/MAG	찾아	찾/VV + 아/EC	안절부절	안절부절/MAG	
+조선	조선/NNP	92년까지	92/SN + 년__02/NNB + 까지/JX	작업량	작업량/NNG	"만선"	"/SS + 만선__03/NNG + "/SS	/	//SP	1분기	1/SN + 분기__02/NNG	
+작년보다	작년/NNG + 보다/JKB	두	두/MM	배	배__09/NNG	훨씬	훨씬/MAG	넘어…	넘__01/VV + 어/EC + …/SE	18억	18/SN + 억/NR	2천만불	2/SN + 천만/NR + 불__08/NNB	어치	어치__04/NNG	/	//SP	수주	수주__06/NNG	잔량	잔량/NNG	777만t	777/SN + 만/NR + t/SL	사상	사상__01/NNG	최고	최고__02/NNG	/	//SP	도크	도크/NNG	증설	증설/NNG	등	등__05/NNB	검토	검토/NNG	
+생산직	생산/NNG + 직__06/NNG	승진	승진__03/NNG	기회	기회__03/NNG	확대	확대__02/NNG	/	//SP	정부	정부__08/NNG	/	//SP	사무직과	사무__05/NNG + 직__06/NNG + 과/JKB	격차	격차__02/NNG	해소	해소__03/NNG	30대	30/SN + 대__04/NNG	기업에	기업__01/NNG + 에/JKB	촉구	촉구/NNG	
+삼성,	삼성/NNP + ,/SP	생산직	생산/NNG + 직__06/NNG	임금	임금__03/NNG	6.7%인상	6/SN + ./SP + 7/SN + %/SW + 인상__03/NNG	/	//SP	사무직은	사무__05/NNG + 직__06/NNG + 은/JX	5%	5/SN + %/SW	
+카드회원	카드/NNG + 회원/NNG	정보	정보__06/NNG	무단	무단__02/NNG	제공	제공__04/NNG	금지	금지__04/NNG	
+"집세	"/SS + 집세/NNG	안정	안정__01/NNG	미흡"	미흡/NNG + "/SS	/	//SP	경실련	경실련/NNG	
+"한달	"/SS + 한/MM + 달__05/NNG	이내에는	이내__05/NNG + 에/JKB + 는/JX	대이자	대__20/NNG + 이자__05/NNG	연체료만	연체료/NNG + 만/JX	/	//SP	은행	은행__02/NNG	감독원	감독원/NNG	개선	개선__01/NNG	검토	검토/NNG	
+지수	지수__07/NNG	768…	768/SN + …/SE	최저치	최저__01/NNG + 치/XSN	또	또/MAG	갱신	갱신__02/NNG	/	//SP	조립	조립__02/NNG	금속은	금속__01/NNG + 은/JX	크게	크/VA + 게/EC	올라(시황)	오르/VV + 아/EC + (/SS + 시황__01/NNG + )/SS	
+급한	급하/VA + ㄴ/ETM	매물	매물__02/NNG	이외는	이외__01/NNG + 는/JX	자제…	자제__02/NNG + …/SE	5백만주	5/SN + 백만/NR + 주__24/NNG	거래	거래__02/NNG	
+신화,	신화/NNP + ,/SP	'유화'	'/SS + 유화__02/NNG + '/SS	본격	본격/NNG	진출	진출__02/NNG	/	//SP	동성유화	동성유화/NNP	착공	착공__01/NNG	
+출판-유통	출판__02/NNG + -/SS + 유통__04/NNG	등	등__05/NNB	4개	4/SN + 개/NNB	업종	업종__01/NNG	인지세	인지세/NNG	납부	납부/NNG	실태	실태__02/NNG	조사	조사__30/NNG	
+증권사	증권사/NNG	주식보유조합	주식__03/NNG + 보유__01/NNG + 조합__01/NNG	설립	설립__02/NNG	/	//SP	상장	상장__06/NNG	기업도	기업__01/NNG + 도/JX	참여	참여/NNG	/	//SP	오늘	오늘/NNG	증권업협	증권업협/NNG	이사회	이사회/NNG	
+증시	증시__88/NNG	침체	침체/NNG	1년	1/SN + 년__02/NNB	동안	동안__01/NNG	물타기	물__01/NNG + 타__03/VV + 기/ETN	증자	증자__04/NNG	성행	성행__03/NNG	
+근로자	근로자/NNG	주택,	주택/NNG + ,/SP	특별	특별/NNG	부가세	부가세/NNG	면제	면제__01/NNG	/	//SP	증여토지,	증여/NNG + 토지__02/NNG + ,/SP	공시	공시__01/NNG	지가	지가__03/NNG	내달	내달/NNG	소급	소급__02/NNG	적용	적용/NNG	
+소득-법인-상속세법	소득/NNG + -/SS + 법인__02/NNG + -/SS + 상속세법/NNG	시행령	시행령/NNG	개정	개정__02/NNG	
+전세	전세__07/NNG	천만	천만/NR	원까지	원__01/NNB + 까지/JX	대출	대출__03/NNG	연대	연대__02/NNG	보증만으로	보증/NNG + 만/JX + 으로/JKB	가능	가능/NNG	
+주택은,	주택은/NNP + ,/SP	보증완화	보증/NNG + 완화__02/NNG	각	각/MM	지점에	지점__01/NNG + 에/JKB	시달	시달/NNG	
+주공,	주공/NNP + ,/SP	내달	내달/NNG	5천	5/SN + 천/NR	9백	9/SN + 백/NR	52가구	52/SN + 가구__03/NNG	분양	분양__01/NNG	
+군포	군포/NNP	산본-대천	산본/NNP + -/SS + 대천/NNP	동대-이리	동대/NNP + -/SS + 이리/NNP	모현	모현/NNP	등	등__05/NNB	7곳	7/SN + 곳__01/NNG	
+1분기	1/SN + 분기__02/NNG	증여세	증여세/NNG	5백	5/SN + 백/NR	8억	8/SN + 억/NR	징수	징수__02/NNG	
+울진	울진/NNP	원전	원전__88/NNG	3-4호기	3/SN + -/SS + 4/SN + 호__14/NNB + 기__43/NNG	/	//SP	미,	미/NNP + ,/SP	CE사	CE/SL + 사__18/NNG	등에	등__05/NNB + 에/JKB	하청	하청__02/NNG	/	//SP	주	주__03/NNG	계약자는	계약자/NNG + 는/JX	한중	한/NNP + 중/NNP	
+시멘트	시멘트/NNG	공급	공급__02/NNG	행정	행정__01/NNG	지도	지도__09/NNG	/	//SP	상공부	상공__07/NNG + 부__15/NNG	
+31P	31/SN + P/SL	또	또/MAG	"껑충"…	"/SS + 껑충__01/MAG + "/SS + …/SE	단숨에	단숨에/MAG	7백	7/SN + 백/NR	82(시황)	82/SN + (/SS + 시황__01/NNG + )/SS	
+"상한가라도	"/SS + 상한__01/NNG + 가/XSN + 이/VCP + 라도/EC	사자"…	사/VV + 자/EC + "/SS + …/SE	거래량	거래량/NNG	2천	2/SN + 천/NR	만주	만/NR + 주__24/NNG	넘어	넘__01/VV + 어/EC	
+코리아	코리아/NNP	펀드주	펀드주/NNG	20	20/SN	달러선	달러/NNB + 선__14/NNG	회복	회복/NNG	
+임대	임대/NNG	소득	소득/NNG	신고	신고__01/NNG	의무화	의무__01/NNG + 화/XSN	/	//SP	국세청	국세청/NNG	올부터	올__02/NNG + 부터/JX	대상	대상__11/NNG	확대	확대__02/NNG	
+국민	국민/NNG	주택	주택/NNG	규모	규모/NNG	이상	이상__05/NNG	모두	모두/MAG	/	//SP	25.7평	25/SN + ./SP + 7/SN + 평/NNB	이하는	이하__02/NNG + 는/JX	5채	5/SN + 채__08/NNB	이상	이상__05/NNG	/	//SP	아파트	아파트/NNG	전세	전세__07/NNG	보증금의	보증금/NNG + 의/JKG	7.5%	7/SN + ./SP + 5/SN + %/SW	/	//SP	단독	단독__02/NNG	주택은	주택/NNG + 은/JX	4.5%	4/SN + ./SP + 5/SN + %/SW	신고해야	신고__01/NNG + 하/XSV + 아야/EC	
+전면	전면__01/NNG	철거식	철거식/NNG	재개발	재/XPN + 개발/NNG	지양	지양/NNG	/	//SP	시행령	시행령/NNG	개정	개정__02/NNG	/	//SP	소유자	소유자/NNG	개량-전통	개량__01/NNG + -/SS + 전통__06/NNG	건물은	건물__03/NNG + 은/JX	보전	보전__03/NNG	
+연휴	연휴__02/NNG	비상근무…	비상근무/NNG + …/SE	의견	의견__01/NNG	조정	조정__08/NNG	부심	부심__04/NNG	/	//SP	경제	경제__04/NNG	대책	대책__03/NNG	마련	마련/NNG	각	각/MM	부처	부처__04/NNG	표정	표정__03/NNG	
+법석	법석__01/NNG	떨다	떨__01/VV + 다/EC	알맹이	알맹이/NNG	없을까	없/VA + 을까/EC	걱정	걱정/NNG	/	//SP	부총리,	부총리/NNG + ,/SP	행정력	행정력/NNG	누수	누수__04/NNG	등	등__05/NNB	착잡한	착잡/XR + 하/XSA + ㄴ/ETM	심정	심정__01/NNG	"특강"	"/SS + 특강/NNG + "/SS	/	//SP	일부	일부__02/NNG	그룹	그룹__01/NNG	연수원	연수원/NNG	부지	부지__08/NNG	축소	축소__02/NNG	지시에	지시__02/NNG + 에/JKB	반발	반발__01/NNG	/	//SP	은행,	은행__02/NNG + ,/SP	합숙소-테니스장	합숙소/NNG + -/SS + 테니스장/NNG	매각	매각/NNG	검토	검토/NNG	1순위	1/SN + 순위/NNG	
+"부동산이	"/SS + 부동산/NNG + 이/JKS	주범"확신	주범__01/NNG + "/SS + 확신__01/NNG	
+대그룹에	대/XPN + 그룹__01/NNG + 에/JKB	"협조"	"/SS + 협조__01/NNG + "/SS	당부	당부__02/NNG	
+재-학계	재/NNG + -/SS + 학계/NNG	분열에	분열__02/NNG + 에/JKB	우려	우려/NNG	
+일부	일부__02/NNG	점포도	점포/NNG + 도/JX	매각	매각/NNG	강구	강구__12/NNG	
+실행	실행__02/NNG	여전히	여전히/MAG	회의적	회의__05/NNG + 적/XSN	
+건설	건설/NNG	업체	업체/NNG	사업용	사업__04/NNG + 용/XSN	토지	토지__02/NNG	/	//SP	업무용	업무__02/NNG + 용/XSN	인정건의	인정__08/NNG + 건의__01/NNG	
+피해주는	피해__01/NNG + 주/VV + 는/ETM	수입품	수입품__02/NNG	긴급관세	긴급/NNG + 관세__03/NNG	적용	적용/NNG	/	//SP	상공부,	상공__07/NNG + 부__15/NNG + ,/SP	2백개품목	2/SN + 백/NR + 개/NNB + 품목__01/NNG	실태	실태__02/NNG	조사	조사__30/NNG	
+철강-전자-섬유	철강/NNG + -/SS + 전자__06/NNG + -/SS + 섬유/NNG	/	//SP	2분기부터	2/SN + 분기__02/NNG + 부터/JX	회복	회복/NNG	
+위기	위기__01/NNG	극복	극복__01/NNG	대책위	대책위/NNG	설치	설치__02/NNG	/	//SP	중소	중소__02/NNG	기협	기협/NNG	
+영	영/NNP	상공	상공__07/NNG	장관	장관__02/NNG	방한	방한__04/NNG	
+증권사	증권사/NNG	부동산	부동산/NNG	처분	처분/NNG	늑장	늑장__01/NNG	/	//SP	"매각	"/SS + 매각/NNG	대상	대상__11/NNG	미확정"핑계	미/XPN + 확정__02/NNG + "/SS + 핑계/NNG	
+감독원,	감독원/NNG + ,/SP	"지침에	"/SS + 지침__02/NNG + 에/JKB	미흡"	미흡/NNG + "/SS	다시	다시/MAG	제출	제출__02/NNG	지시	지시__02/NNG	
+5일째	5/SN + 일/NNB + 째/XSN	속락	속락/NNG	7백	7/SN + 백/NR	30	30/SN	"위태"(시황)	"/SS + 위태/XR + "/SS + (/SS + 시황__01/NNG + )/SS	
+하한가	하한__01/NNG + 가/XSN	1백	1/SN + 백/NR	47	47/SN	개…	개/NNB + …/SE	거래도	거래__02/NNG + 도/JX	8백만	8/SN + 백만/NR	주	주__24/NNG	못	못/MAG	미쳐	미치__02/VV + 어/EC	
+백화점	백화점/NNG	이용자	이용자/NNG	49%	49/SN + %/SW	현금	현금__04/NNG	아닌	아니/VCN + ㄴ/ETM	카드거래	카드/NNG + 거래__02/NNG	
+대우-동서증권	대우/NNP + -/SS + 동서증권/NNP	부차장	부차장/NNG	1년	1/SN + 년__02/NNB	간	간__10/NNB	임금	임금__03/NNG	동결키로	동결/NNG + 하/XSV + 기/ETN + 로/JKB	
+광주고속-대성전선	광주고속/NNP + -/SS + 대성전선/NNP	순익-매출	순익/NNG + -/SS + 매출/NNG	최고	최고__02/NNG	신장	신장__04/NNG	
+'지주	'/SS + 지주__09/NNG	회사'	회사__04/NNG + '/SS	36개	36/SN + 개/NNB	기업	기업__01/NNG	정밀	정밀__02/NNG	조사	조사__30/NNG	/	//SP	증시	증시__88/NNG	활황	활황/NNG	틈타	틈타/VV + 아/EC	타사주식	타사__02/NNG + 주식__03/NNG	과다소유	과다__01/NNG + 소유__03/NNG	늘어	늘/VV + 어/EC	
+계열사	계열사/NNG	간	간__10/NNB	'특혜거래'도	'/SS + 특혜/NNG + 거래__02/NNG + '/SS + 도/JX	단속	단속__01/NNG	/	//SP	공정	공정__02/NNG	거래법	거래법/NNG	위반	위반__03/NNG	강력제재	강력/XR + 제재__01/NNG	
+"중기도	"/SS + 중기__88/NNG + 도/JX	'비업무용'매각"	'/SS + 비/XPN + 업무__02/NNG + 용/XSN + '/SS + 매각/NNG + "/SS	/	//SP	기협	기협/NNG	/	//SP	3만여	3/SN + 만/NR + 여/XSN	회원사	회원사/NNG	보유	보유__01/NNG	실태	실태__02/NNG	조사	조사__30/NNG	착수	착수__03/NNG	
+임대	임대/NNG	기간	기간__07/NNG	5년안에도	5/SN + 년__02/NNB + 안__01/NNG + 에/JKB + 도/JX	전문업자에	전문__08/NNG + 업자/NNG + 에/JKB	양도허용	양도__11/NNG + 허용/NNG	/	//SP	임대	임대/NNG	주택	주택/NNG	시행령	시행령/NNG	개정	개정__02/NNG	
+보험	보험/NNG	업계	업계__01/NNG	매각	매각/NNG	규모	규모/NNG	적어	적/VA + 어/EC	/	//SP	감독원,	감독원/NNG + ,/SP	보유	보유__01/NNG	부동산	부동산/NNG	실사	실사__04/NNG	
+1분기	1/SN + 분기__02/NNG	대동구	대__20/NNG + 동구/NNP	수출	수출__03/NNG	1억	1/SN + 억/NR	86만	86/SN + 만/NR	달러	달러/NNB	기록	기록__02/NNG	
+상장	상장__06/NNG	회사	회사__04/NNG	증시안정기금	증시__88/NNG + 안정__01/NNG + 기금__02/NNG	규모	규모/NNG	확정	확정__02/NNG	/	//SP	연말까지	연말__02/NNG + 까지/JX	1조	1/SN + 조/NR	8백억	8/SN + 백억/NR	출자	출자/NNG	
+내달	내달/NNG	4천	4/SN + 천/NR	7백억	7/SN + 백억/NR	조성…	조성__04/NNG + …/SE	투자	투자__02/NNG	심리	심리__01/NNG	회복될듯	회복/NNG + 되/XSV + ㄹ/ETM + 듯/NNB	
+의류	의류/NNG	업체	업체/NNG	여름옷값	여름옷/NNG + 값/NNG	인하	인하/NNG	/	//SP	원가	원가__05/NNG	인상	인상__03/NNG	요인	요인__03/NNG	자체	자체__02/NNG	흡수	흡수__02/NNG	
+작년	작년/NNG	수준	수준/NNG	유지…	유지__09/NNG + …/SE	중저가품	중저가품/NNG	보급	보급__01/NNG	확대키로	확대__02/NNG + 하/XSV + 기/ETN + 로/JKB	
+'기업	'/SS + 기업__01/NNG	현안	현안__02/NNG	대책위'발족	대책위/NNG + '/SS + 발족__02/NNG	/	//SP	삼성-현대등	삼성/NNP + -/SS + 현대/NNP + 등__05/NNB	49	49/SN	개	개/NNB	계열사	계열사/NNG	총수로	총수__03/NNG + 로/JKB	구성	구성__07/NNG	
+보험사	보험사/NNG	신규점포	신규/NNG + 점포/NNG	설치	설치__02/NNG	이달부터	이달__01/NNG + 부터/JX	전면	전면__01/NNG	중지	중지__02/NNG	
+선경	선경/NNP	인더스트리-미원	인더스트리/NNP + -/SS + 미원/NNP	해외CB	해외/NNG + CB/SL	발행을	발행__01/NNG + 을/JKO	승인	승인__02/NNG	
+공개	공개__02/NNG	부실	부실__01/NNG	분석	분석__02/NNG	증권사	증권사/NNG	회사채	회사채/NNG	발행	발행__01/NNG	업무	업무__02/NNG	정지	정지__06/NNG	
+주가	주가__05/NNG	소폭	소폭__01/NNG	내려(시황)	내리/VV + 어/EC + (/SS + 시황__01/NNG + )/SS	
+1분기	1/SN + 분기__02/NNG	경제	경제__04/NNG	성장률	성장__01/NNG + 률/XSN	10.3%	10/SN + ./SP + 3/SN + %/SW	/	//SP	건설업이	건설업/NNG + 이/JKS	40%	40/SN + %/SW	늘어	늘/VV + 어/EC	/	//SP	한은	한은/NNP	발표	발표__01/NNG	
+30대	30/SN + 대__04/NNG	그룹	그룹__01/NNG	매출액	매출액/NNG	23%	23/SN + %/SW	계열사끼리	계열사/NNG + 끼리/XSN	사고	사/VV + 고/EC	팔아	팔/VV + 아/EC	
+"조세-금융제재	"/SS + 조세__05/NNG + -/SS + 금융/NNG + 제재__01/NNG	추가도입해야"	추가__02/NNG + 도입/NNG + 하/XSV + 아야/EC + "/SS	/	//SP	KDI"경제력	KDI/SL + "/SS + 경제력/NNG	집중	집중__02/NNG	억제	억제/NNG	미흡"	미흡/NNG + "/SS	
+세금	세금__01/NNG	징수는	징수__02/NNG + 는/JX	"호황"	"/SS + 호황/NNG + "/SS	/	//SP	4월까지	4/SN + 월/NNB + 까지/JX	9조…	9/SN + 조/NR + …/SE	21.9%	21/SN + ./SP + 9/SN + %/SW	늘어	늘/VV + 어/EC	
+무주택자	무/XPN + 주택자/NNG	우선	우선/MAG	분양	분양__01/NNG	/	//SP	주택	주택/NNG	공급	공급__02/NNG	규칙	규칙__02/NNG	확정	확정__02/NNG	
+법인세율	법인세/NNG + 율/XSN	인하	인하/NNG	건의	건의__01/NNG	/	//SP	전경련	전경련/NNP	
+아파트	아파트/NNG	기준	기준/NNG	시가	시가__02/NNG	상향	상향__01/NNG	/	//SP	국세청	국세청/NNG	내달중	내달/NNG + 중__04/NNB	
+종토세	종토세/NNG	제외대상	제외__02/NNG + 대상__11/NNG	과다	과다__01/NNG	
+대우투금	대우투금/NNP	수의	수의__13/NNG	계약	계약/NNG	매각	매각/NNG	/	//SP	당초	당초__03/NNG	공개	공개__02/NNG	입찰	입찰/NNG	예정	예정__02/NNG	바꿔	바꾸/VV + 어/EC	
+5백	5/SN + 백/NR	40억	40/SN + 억/NR	예상이	예상__02/NNG + 이/JKS	3백	3/SN + 백/NR	85억원으로	85/SN + 억/NR + 원__01/NNB + 으로/JKB	
+고급	고급__02/NNG	의류	의류/NNG	수입	수입__02/NNG	급증	급증__02/NNG	/	//SP	침구-이불은	침구__02/NNG + -/SS + 이불/NNG + 은/JX	무려	무려/MAG	1천%	1/SN + 천/NR + %/SW	이상	이상__05/NNG	
+소	소/NNP	업체	업체/NNG	3천만	3/SN + 천만/NR	달러	달러/NNB	계약	계약/NNG	체결	체결/NNG	/	//SP	소	소/NNP	주간	주간__05/NNG	행사	행사__01/NNG	최종	최종/NNG	집계	집계/NNG	
+주가	주가__05/NNG	8백	8/SN + 백/NR	14.4(시황)	14/SN + ./SP + 4/SN + (/SS + 시황__01/NNG + )/SS	
+대기업	대/XPN + 기업__01/NNG	임금	임금__03/NNG	인상률	인상__03/NNG + 률/XSN	'한자리수'정착	'/SS + 한자리/NNG + 수__26/NNG + '/SS + 정착/NNG	추세	추세__03/NNG	
+소에	소/NNP + 에/JKB	조건부	조건부/NNG	차관	차관__02/NNG	방침	방침__02/NNG	/	//SP	뱅크론-전대-연불수출금융	뱅크론/NNG + -/SS + 전대__09/NNG + -/SS + 연불__02/NNG + 수출__03/NNG + 금융/NNG	등으로	등__05/NNB + 으로/JKB	
+진출기업	진출__02/NNG + 기업__01/NNG	사업에	사업__04/NNG + 에/JKB	재투자	재/XPN + 투자__02/NNG	/	//SP	수출	수출__03/NNG	상품	상품__03/NNG	대금	대금__05/NNG	결제	결제__01/NNG	조건	조건__02/NNG	
+2백	2/SN + 백/NR	평	평/NNB	이상	이상__05/NNG	택지소유자-법인	택지__01/NNG + 소유자/NNG + -/SS + 법인__02/NNG	총	총/MM	3만	3/SN + 만/NR	55건	55/SN + 건/NNB	자진	자진__01/NNG	신고	신고__01/NNG	
+전력	전력__04/NNG	소비	소비__05/NNG	급증	급증__02/NNG	/	//SP	4월까지	4/SN + 월/NNB + 까지/JX	2백	2/SN + 백/NR	97억㎾	97/SN + 억/NR + ㎾/SW	/	//SP	작년보다	작년/NNG + 보다/JKB	17.4%	17/SN + ./SP + 4/SN + %/SW	늘어	늘/VV + 어/EC	
+양담배	양담배/NNG	과대	과대__02/NNG	경품-광고	경품/NNG + -/SS + 광고__02/NNG	5	5/SN	개회사에	개/NNB + 회사__04/NNG + 에/JKB	시정	시정__09/NNG	명령	명령__01/NNG	
+일간지에	일간지/NNG + 에/JKB	위반	위반__03/NNG	사실	사실__04/NNG	게재토록	게재/NNG + 하/XSV + 도록/EC	
+쌍용-효성물산-코오롱상사	쌍용/NNP + -/SS + 효성물산/NNP + -/SS + 코오롱상사/NNP	월내	월__02/NNG + 내/NNB	소에	소/NNP + 에/JKB	지사개설	지사__02/NNG + 개설__02/NNG	
+올	올/MM	추경	추경__88/NNG	예산	예산__02/NNG	편성	편성__02/NNG	확정	확정__02/NNG	/	//SP	1조	1/SN + 조/NR	9천억…	9/SN + 천억/NR + …/SE	당초보다	당초__03/NNG + 보다/JKB	6천억	6/SN + 천억/NR	줄어	줄/VV + 어/EC	
+수출시장,	수출__03/NNG + 시장__04/NNG + ,/SP	아세안도전	아세안/NNP + 도전__04/NNG	큰	크/VA + ㄴ/ETM	위협	위협/NNG	/	//SP	품질-가격경쟁	품질__03/NNG + -/SS + 가격__03/NNG + 경쟁/NNG	떨어져…	떨어지/VV + 어/EC + …/SE	41%	41/SN + %/SW	빼앗겨	빼앗기/VV + 어/EC	
+우루과이	우루과이/NNP	라운드	라운드/NNG	협상안	협상__01/NNG + 안__04/NNG	관련	관련/NNG	한국의	한국/NNP + 의/JKG	교량	교량__02/NNG	역할	역할/NNG	기대	기대__03/NNG	/	//SP	미	미/NNP	의회	의회__02/NNG	관계자들	관계자/NNG + 들/XSN	
+주가	주가__05/NNG	큰	크/VA + ㄴ/ETM	폭	폭__06/NNG	하락	하락/NNG	/	//SP	7백	7/SN + 백/NR	72선	72/SN + 선__14/NNG	밀려(시황)	밀리__02/VV + 어/EC + (/SS + 시황__01/NNG + )/SS	
+'성장기조'	'/SS + 성장__01/NNG + 기조__01/NNG + '/SS	경제	경제__04/NNG	운용	운용/NNG	전면	전면__01/NNG	수정	수정__09/NNG	/	//SP	농수산물	농수산물/NNG	가격	가격__03/NNG	집중	집중__02/NNG	관리	관리__04/NNG	
+물가	물가__02/NNG	안정	안정__01/NNG	최우선	최/XPN + 우선__07/NNG	과제로	과제__04/NNG + 로/JKB	/	//SP	주택	주택/NNG	2백만호	2/SN + 백만/NR + 호__04/NNB	건설	건설/NNG	계획도	계획__01/NNG + 도/JX	재조정	재/XPN + 조정__09/NNG	
+정부	정부__08/NNG	투자	투자__02/NNG	기관	기관__11/NNG	작년순익	작년/NNG + 순익/NNG	6.6%	6/SN + ./SP + 6/SN + %/SW	줄어	줄/VV + 어/EC	1조	1/SN + 조/NR	8천억	8/SN + 천억/NR	/	//SP	88년	88/SN + 년__02/NNB	대비	대비__09/NNG	
+한국	한국/NNP	GNP	GNP/SL	작년	작년/NNG	세계	세계__02/NNG	13위	13/SN + 위/NNB	/	//SP	1인당	1/SN + 인__02/NNG + 당/XSN	5천불	5/SN + 천/NR + 불__08/NNB	육박	육박__02/NNG	30위권	30/SN + 위/NNB + 권/XSN	추정	추정__02/NNG	
+한은,	한은/NNP + ,/SP	IMF자료	IMF/SL + 자료__03/NNG	분석	분석__02/NNG	
+정주영	정주영/NNP	회장	회장__07/NNG	오늘	오늘/MAG	향소	향/XR + 소/NNP	/	//SP	천연가스	천연가스/NNG	개발	개발/NNG	등	등__05/NNB	협의	협의__01/NNG	
+외제	외제__05/NNG	승용차	승용차/NNG	판매	판매/NNG	실적	실적__05/NNG	지난해	지난해/NNG	수준	수준/NNG	이미	이미/MAG	넘어	넘__01/VV + 어/EC	/	//SP	5월말	5/SN + 월/NNB + 말__11/NNB	1천	1/SN + 천/NR	3백	3/SN + 백/NR	38대	38/SN + 대__15/NNB	
+석유	석유__01/NNG	기금	기금__02/NNG	감소예상	감소__01/NNG + 예상__02/NNG	/	//SP	지원	지원__02/NNG	사업	사업__04/NNG	축소	축소__02/NNG	조정	조정__09/NNG	
+10대재벌	10/SN + 대/XPN + 재벌__02/NNG	부동산	부동산/NNG	매각	매각/NNG	종결	종결__02/NNG	움직임	움직임/NNG	/	//SP	현대	현대/NNP	등	등__05/NNB	8	8/SN	개	개/NNB	그룹서	그룹__01/NNG + 서/JKB	2백	2/SN + 백/NR	15만평	15/SN + 만/NR + 평/NNB	
+토개공에	토개공/NNP + 에/JKB	매입	매입/NNG	의뢰	의뢰/NNG	
+주가	주가__05/NNG	다시	다시/MAG	내림세	내림세/NNG	/	//SP	등락	등락__03/NNG	거듭	거듭/MAG	9P밀려	9/SN + P/SL + 밀__01/VV + 려/EC	7백	7/SN + 백/NR	35(시황)	35/SN + (/SS + 시황__01/NNG + )/SS	
+지준예치	지준/NNG + 예치__01/NNG	의무화	의무__01/NNG + 화/XSN	/	//SP	한은	한은/NNP	투신	투신__02/NNG	등	등__05/NNB	제	제/XPN	2금융권	2/SN + 금융/NNG + 권/XSN	대상	대상__11/NNG	
+무상	무상__09/NNG	증자	증자__04/NNG	시세	시세__04/NNG	차익	차익__02/NNG	과세	과세__04/NNG	검토	검토/NNG	
+1872	1872/SN	명	명/NNB	부동산	부동산/NNG	투기	투기__04/NNG	조사	조사__30/NNG	/	//SP	992억	992/SN + 억/NR	추징	추징/NNG	
+대출원리금	대출__03/NNG + 원리금/NNG	연체이자	연체__01/NNG + 이자__05/NNG	8월부터	8/SN + 월/NNB + 부터/JX	이자만	이자__05/NNG + 만/JX	적용	적용/NNG	
+자보	자보__88/NNG	책임	책임/NNG	보험	보험/NNG	보상	보상__02/NNG	100%	100/SN + %/SW	인상	인상__03/NNG	/	//SP	사망-후유장애	사망__04/NNG + -/SS + 후유/NNG + 장애__02/NNG	천만	천만/NR	원으로	원__01/NNB + 으로/JKB	
+차량	차량__01/NNG	수리비도	수리비/NNG + 도/JX	상향	상향__01/NNG	조정	조정__09/NNG	/	//SP	2단계제도	2/SN + 단계__03/NNG + 제도__01/NNG	개편안	개편__01/NNG + 안__04/NNG	/	//SP	빠르면	빠르/VA + 면/EC	내달부터	내달/NNG + 부터/JX	시행	시행__01/NNG	
+소	소/NNP	수출	수출__03/NNG	미수금	미수금/NNG	4천만불	4/SN + 천만/NR + 불__08/NNB	/	//SP	삼성	삼성/NNP	물산	물산/NNG	2천	2/SN + 천/NR	7백만	7/SN + 백만/NR	불로	불__01/NNG + 로/JKB	가장	가장__01/MAG	많아	많/VA + 아/EC	
+상공부	상공__07/NNG + 부__15/NNG	국회자료	국회/NNG + 자료__03/NNG	
+단자-종금	단자__03/NNG + -/SS + 종금__88/NNG	등	등__05/NNB	재벌	재벌__02/NNG	여신	여신__05/NNG	5월말	5/SN + 월/NNB + 말__11/NNB	44%로	44/SN + %/SW + 로/JKB	늘어나	늘어나/VV + 아/EC	
+기업	기업__01/NNG	비업무부동산	비/XPN + 업무__02/NNG + 부동산/NNG	규제위해	규제/NNG + 위하__01/VV + 아/EC	관련	관련/NNG	부처	부처__04/NNG	협동	협동/NNG	체제	체제__02/NNG	구축키로	구축__03/NNG + 하/XSV + 기/ETN + 로/JKB	
+3분기	3/SN + 분기__02/NNG	경기	경기__11/NNG	회복	회복/NNG	전망	전망__03/NNG	/	//SP	건설-기계등	건설/NNG + -/SS + 기계__07/NNG + 등__05/NNB	내수호조	내수__03/NNG + 호조__04/NNG	힘입어	힘입/VV + 어/EC	
+전경련	전경련/NNP	기업	기업__01/NNG	동태	동태__05/NNG	조사	조사__30/NNG	
+올	올/MM	세수	세수__05/NNG	11조	11/SN + 조/NR	9천억	9/SN + 천억/NR	/	//SP	작년비	작년/NNG + 비__05/NNG	30.9%	30/SN + ./SP + 9/SN + %/SW	늘어	늘/VV + 어/EC	
+서비스업	서비스업/NNG	수입액	수입액__01/NNG	1년	1/SN + 년__02/NNB	새	새__01/NNG	19%	19/SN + %/SW	늘어	늘/VV + 어/EC	/	//SP	기획원	기획원/NNG	조사	조사__30/NNG	
+지난해	지난해/NNG	24조	24/SN + 조/NR	8천억…	8/SN + 천억/NR + …/SE	규모도	규모/NNG + 도/JX	대형화	대형__04/NNG + 화/XSN	/	//SP	정보관련-광고-패션업이	정보__06/NNG + 관련/NNG + -/SS + 광고__02/NNG + -/SS + 패션업/NNG + 이/JKS	가장	가장__01/MAG	많아	많/VA + 아/EC	
+대전시	대전시/NNP	둔산등	둔산/NNP + 등__05/NNB	8곳	8/SN + 곳__01/NNG	택지	택지__01/NNG	개발	개발/NNG	지구	지구__03/NNG	지정	지정__14/NNG	
+택지개발예정지구(단위:천평)	택지__01/NNG + 개발/NNG + 예정__02/NNG + 지구__03/NNG + (/SS + 단위__02/NNG + :/SP + 천/NR + 평/NNB + )/SS	
+주가,	주가__05/NNG + ,/SP	폭락	폭락/NNG	멈추고	멈추/VV + 고/EC	강보합	강보합/NNG	/	//SP	하락따른	하락/NNG + 따르__01/VV + ㄴ/ETM	반발	반발__01/NNG	매수나서(시황)	매수__02/NNG + 나서/VV + 어/EC + (/SS + 시황__01/NNG + )/SS	
+대기성	대기__16/NNG + 성/XSN	매물에	매물__02/NNG + 에/JKB	주춤…	주춤/MAG + …/SE	0.4P	0/SN + ./SP + 4/SN + P/SL	올라	오르/VV + 아/EC	6백	6/SN + 백/NR	89	89/SN	
+"통화-재정	"/SS + 통화__03/NNG + -/SS + 재정__05/NNG	긴축	긴축__02/NNG	강화	강화__04/NNG	촉구"	촉구/NNG + "/SS	/	//SP	내수	내수__03/NNG	과열인한	과열__01/NNG + 인__11/NNG + 하/XSV + ㄴ/ETM	인플레	인플레/NNG	방지책	방지책/NNG	필요	필요/NNG	
+방한	방한__04/NNG	IMF협의단	IMF/SL + 협의단/NNG	
+연중	연중__01/NNG	최저종목	최저__01/NNG + 종목__01/NNG	속출	속출/NNG	/	//SP	상장	상장__06/NNG	9백	9/SN + 백/NR	49	49/SN	개중	개중/NNG	3백	3/SN + 백/NR	56	56/SN	개	개/NNB	달해	달하/VV + 아/EC	
+대주주	대/XPN + 주주/NNG	주식	주식__03/NNG	보유	보유__01/NNG	제한	제한__01/NNG	/	//SP	안정	안정__01/NNG	위해	위하__01/VV + 아/EC	완화	완화__02/NNG	등	등__05/NNB	검토	검토/NNG	
+평촌	평촌/NNP	신도시	신/XPN + 도시__03/NNG	아파트	아파트/NNG	주택	주택/NNG	상환	상환__02/NNG	사채	사채__02/NNG	발행	발행__01/NNG	/	//SP	5백	5/SN + 백/NR	8가구	8/SN + 가구__03/NNG	대상으로	대상__11/NNG + 으로/JKB	
+서울	서울/NNP	지역	지역__03/NNG	주식	주식__03/NNG	투자자	투자자/NNG	비중	비중/NNG	점차	점차/MAG	줄어	줄/VV + 어/EC	
+'자유저축'가입한도	'/SS + 자유__03/NNG + 저축__03/NNG + '/SS + 가입/NNG + 한도__02/NNG	대폭	대폭/MAG	확대	확대__02/NNG	
+시중	시중__03/NNG	자금	자금__08/NNG	은행	은행__02/NNG	유입	유입__01/NNG	확대책…	확대책/NNG + …/SE	빠르면	빠르/VA + 면/EC	내달	내달/NNG	시행	시행__01/NNG	/	//SP	현	현/MM	2천	2/SN + 천/NR	만원서	만/NR + 원__01/NNB + 서/JKB	5천	5/SN + 천/NR	만원으로	만/NR + 원__01/NNB + 으로/JKB	/	//SP	저축	저축__03/NNG	예금	예금__01/NNG	한도는	한도__02/NNG + 는/JX	철폐	철폐__01/NNG	/	//SP	수신	수신__07/NNG	구조	구조__08/NNG	왜곡	왜곡/NNG	우려도	우려/NNG + 도/JX	
+전세	전세__07/NNG	자금	자금__08/NNG	융자	융자/NNG	대상	대상__11/NNG	축소	축소__02/NNG	/	//SP	2천만원이하	2/SN + 천만/NR + 원/NNB + 이하__02/NNG	세입자만	세입자/NNG + 만/JX	혜택	혜택/NNG	
+주택은,	주택은/NNP + ,/SP	내달부터	내달/NNG + 부터/JX	시행	시행__01/NNG	
+외화	외화__01/NNG	예금	예금__01/NNG	감소	감소__01/NNG	추세	추세__03/NNG	/	//SP	환율안정…	환율/NNG + 안정__01/NNG + …/SE	한달새	한/MM + 달__05/NNG + 새__01/NNG	1억불	1/SN + 억/NR + 불__08/NNB	빠져	빠지__01/VV + 어/EC	
+인니산	인니/NNP + 산/XSN	LNG	LNG/SL	추가	추가__02/NNG	도입	도입/NNG	계약	계약/NNG	
+도농간-취업	도__88/NNG + 농__88/NNG + 간__10/NNB + -/SS + 취업/NNG	형태별	형태/NNG + 별/XSN	소득	소득/NNG	격차	격차__02/NNG	심화	심화__04/NNG	
+주가	주가__05/NNG	속락	속락/NNG	680선도	680/SN + 선__14/NNG + 도/JX	붕괴	붕괴/NNG	/	//SP	정국	정국__01/NNG	경색	경색__02/NNG	우려탓(시황)	우려/NNG + 탓/NNG + (/SS + 시황__01/NNG + )/SS	
+개장초부터	개장__07/NNG + 초__03/NNB + 부터/JX	"찬바람"…	"/SS + 찬바람/NNG + "/SS + …/SE	6백	6/SN + 백/NR	79.67	79/SN + ./SP + 67/SN	
+"근로	"/SS + 근로__02/NNG	시간	시간__04/NNG	단축하면	단축__02/NNG + 하/XSV + 면/EC	임금도	임금__03/NNG + 도/JX	감액"	감액/NNG + "/SS	/	//SP	경단협	경단협/NNG	
+10월부터	10/SN + 월/NNB + 부터/JX	3백인	3/SN + 백/NR + 인__02/NNG	이상	이상__05/NNG	사업체	사업체/NNG	적용	적용/NNG	
+기술	기술__01/NNG	개발	개발/NNG	투자	투자__02/NNG	활발한	활발/XR + 하/XSA + ㄴ/ETM	기간업체	기간__03/NNG + 업체/NNG	/	//SP	기능	기능__01/NNG	인력	인력__01/NNG	병역	병역/NNG	특례를	특례/NNG + 를/JKO	확대키로	확대__02/NNG + 하/XSV + 기/ETN + 로/JKB	
+내달부터	내달/NNG + 부터/JX	신청받아	신청__01/NNG + 받__01/VV + 아/EC	
+지방아파트	지방__05/NNG + 아파트/NNG	미분양	미/XPN + 분양__01/NNG	심화	심화__04/NNG	/	//SP	상반기	상반기/NNG	/	//SP	총	총/MM	3천	3/SN + 천/NR	5백	5/SN + 백/NR	62호…	62/SN + 호__04/NNB + …/SE	한달새	한/MM + 달__05/NNG + 새__01/NNG	73%증가	73/SN + %/SW + 증가__01/NNG	
+시장조성종목	시장__04/NNG + 조성__04/NNG + 종목__01/NNG	속출	속출/NNG	/	//SP	한라	한라/NNP	시멘트	시멘트/NNG	등	등__05/NNB	발행가에	발행가/NNG + 에/JKB	근접	근접__01/NNG	
+하반기	하반기/NNG	중	중__04/NNB	6백	6/SN + 백/NR	51만평	51/SN + 만/NR + 평/NNB	/	//SP	주거-공업용지	주거__02/NNG + -/SS + 공업__01/NNG + 용지__02/NNG	공급	공급__02/NNG	
+시공	시공__01/NNG	부문	부문__06/NNG	내년	내년/NNG	중	중__04/NNB	개방	개방__04/NNG	/	//SP	올	올/MM	하반기	하반기/NNG	시작되는	시작__01/NNG + 되/XSV + 는/ETM	UR협상	UR/SL + 협상__01/NNG	때	때__01/NNG	반영	반영__01/NNG	
+엔지니어링은	엔지니어링/NNG + 은/JX	늦추기로	늦추/VV + 기/ETN + 로/JKB	/	//SP	건설업	건설업/NNG	종합	종합/NNG	면허제	면허__01/NNG + 제/XSN	도입	도입/NNG	
+군-도	군__06/NNG + -/SS + 도__11/NNG	재정	재정__05/NNG	자립	자립__01/NNG	30%	30/SN + %/SW	/	//SP	기획원조사	기획원/NNG + 조사__30/NNG	/	//SP	직할시	직할시/NNG	중엔	중__04/NNB + 에/JKB + ㄴ/JX	광주	광주/NNP	최하	최하/NNG	…	…/SE	72%수준	72/SN + %/SW + 수준/NNG	
+'세수초과'	'/SS + 세수__05/NNG + 초과__02/NNG + '/SS	너무	너무/MAG	잦다	잦/VA + 다/EC	/	//SP	16년	16/SN + 년__02/NNB	간	간__16/NNG	82년	82/SN + 년__02/NNB	제외	제외__02/NNG	"연례행사"	"/SS + 연례행사/NNG + "/SS	
+성장률	성장__01/NNG + 률/XSN	낮게	낮/VA + 게/EC	잡아…	잡__01/VV + 아/EC + …/SE	올해도	올해/NNG + 도/JX	2조	2/SN + 조/NR	6천억	6/SN + 천억/NR	전망	전망__03/NNG	
+상반기	상반기/NNG	세금	세금__01/NNG	잘	잘/MAG	걷혀	걷히__03/VV + 어/EC	/	//SP	금년	금년/NNG	예산	예산__02/NNG	59%	59/SN + %/SW	달해	달하/VV + 아/EC	
+IC,	IC/SL + ,/SP	수출	수출__03/NNG	품목	품목__01/NNG	"1위"	"/SS + 1/SN + 위/NNB + "/SS	/	//SP	상반기	상반기/NNG	19억	19/SN + 억/NR	달러	달러/NNB	어치	어치__04/NNG	팔려	팔리/VV + 어/EC	
+신발류-가죽제	신발/NNG + 류/XSN + -/SS + 가죽제/NNG	의류	의류/NNG	등도	등__05/NNB + 도/JX	호조	호조__04/NNG	
+증권사	증권사/NNG	부동산	부동산/NNG	매각	매각/NNG	/	//SP	8월내	8/SN + 월/NNB + 내/NNB	처리를	처리__02/NNG + 를/JKO	지시	지시__02/NNG	/	//SP	감독원	감독원/NNG	
+주가	주가__05/NNG	이틀째	이틀__01/NNG + 째/XSN	폭락	폭락/NNG	연중	연중__01/NNG	최저	최저__01/NNG	/	//SP	6.95P	6/SN + ./SP + 95/SN + P/SL	밀려	밀리__02/VV + 어/EC	6백	6/SN + 백/NR	71(시황)	71/SN + (/SS + 시황__01/NNG + )/SS	
+증권-철강-조립금속-운수장비	증권__01/NNG + -/SS + 철강/NNG + -/SS + 조립__02/NNG + 금속__01/NNG + -/SS + 운수__05/NNG + 장비__07/NNG	낙폭	낙폭/NNG	커	크/VA + 어/EC	/	//SP	쿠웨이트	쿠웨이트/NNP	사태	사태__06/NNG	여파	여파__01/NNG	
+DMZ-독도	DMZ/SL + -/SS + 독도/NNP	환경	환경__02/NNG	보존	보존/NNG	지역	지역__03/NNG	지정	지정__14/NNG	/	//SP	6천	6/SN + 천/NR	6백	6/SN + 백/NR	35㎢를	35/SN + ㎢/SW + 를/JKO	용도	용도__02/NNG	지정고시	지정__14/NNG + 고시__04/NNG	
+국내	국내__02/NNG	기업	기업__01/NNG	대	대__20/NNG	쿠웨이트	쿠웨이트/NNP	수출	수출__03/NNG	차질	차질/NNG	/	//SP	업계	업계__01/NNG	자금난	자금난/NNG	예상	예상__02/NNG	
+유가	유가__03/NNG	3불	3/SN + 불__08/NNB	인상	인상__03/NNG	따라	따르__01/VV + 아/EC	경상	경상__05/NNG	이익	이익__02/NNG	2%	2/SN + %/SW	줄	줄/VV + ㄹ/ETM	듯	듯/NNB	/	//SP	국내	국내__02/NNG	업계	업계__01/NNG	
+92년	92/SN + 년__02/NNB	시행	시행__01/NNG	7차	7/SN + 차/NNB	5	5/SN	개년	개년/NNB	계획	계획__01/NNG	/	//SP	유가	유가__03/NNG	문제가	문제__06/NNG + 가/JKS	최대	최대/NNG	변수로	변수__06/NNG + 로/JKB	/	//SP	기획원	기획원/NNG	분석	분석__02/NNG	
+페만	페만/NNP	사태	사태__06/NNG	계속땐	때__01/NNG + ㄴ/JX	심각한	심각/XR + 하/XSA + ㄴ/ETM	영향	영향__04/NNG	/	//SP	올	올/MM	국제	국제__02/NNG	수지	수지__04/NNG	추가	추가__02/NNG	적자	적자__02/NNG	불가피	불가피/XR	/	//SP	19불넘으면	19/SN + 불__08/NNB + 넘__01/VV + 으면/EC	물가-수출경쟁력	물가__02/NNG + -/SS + 수출__03/NNG + 경쟁력/NNG	등	등__05/NNB	큰	크/VA + ㄴ/ETM	부담	부담__01/NNG	
+5억	5/SN + 억/NR	넘는	넘__01/VV + 는/ETM	주택에	주택/NNG + 에/JKB	양도세	양도__11/NNG + 세__10/NNG	/	//SP	면적	면적/NNG	관계없이…	관계없이/MAG + …/SE	이하땐	이하__02/NNG + 때__01/NNG + ㄴ/JX	비과세	비/XPN + 과세__04/NNG	/	//SP	내년부터	내년/NNG + 부터/JX	
+미	미/NNP	수출	수출__03/NNG	한국산	한국/NNP + 산/XSN	스웨터	스웨터/NNG	/	//SP	덤핑	덤핑/NNG	마진율	마진__03/NNG + 율/XSN	1.3%로	1/SN + ./SP + 3/SN + %/SW + 로/JKB	/	//SP	미	미/NNP	상무부	상무__02/NNG + 부__15/NNG	판정	판정/NNG	
+소산	소/NNP + 산__88/NNG	시멘트	시멘트/NNG	1만t	1/SN + 만/NR + t/SL	/	//SP	쌍용	쌍용/NNP	이달중	이달__01/NNG + 중__04/NNB	반입	반입/NNG	
+도입시멘트-원목하역	도입/NNG + 시멘트/NNG + -/SS + 원목__02/NNG + 하역__02/NNG	부진	부진__01/NNG	/	//SP	수출입	수출입/NNG	화물	화물/NNG	선적	선적__02/NNG	애로	애로__03/NNG	/	//SP	부산-인천-울산항	부산/NNP + -/SS + 인천/NNP + -/SS + 울산항/NNP	
+주가	주가__05/NNG	630선도	630/SN + 선__14/NNG + 도/JX	위협	위협/NNG	/	//SP	13P	13/SN + P/SL	내려	내리/VV + 어/EC	또	또/MAG	최저	최저__01/NNG	기록(시황)	기록__02/NNG + (/SS + 시황__01/NNG + )/SS	
+지수	지수__07/NNG	6백	6/SN + 백/NR	32.30	32/SN + ./SP + 30/SN	
+페만	페만/NNP	피해	피해__01/NNG	업체	업체/NNG	지원	지원__02/NNG	검토	검토/NNG	/	//SP	무역	무역__02/NNG	금융	금융/NNG	상환연기-어음담보	상환__02/NNG + 연기__05/NNG + -/SS + 어음__01/NNG + 담보__03/NNG	대출	대출__03/NNG	허용	허용/NNG	
+고객	고객__04/NNG	예탁금	예탁금/NNG	소폭	소폭__01/NNG	증가세	증가세__02/NNG	/	//SP	3일만에	3/SN + 일/NNB + 만__01/NNB + 에/JKB	7백	7/SN + 백/NR	43억원	43/SN + 억/NR + 원__01/NNB	늘어	늘/VV + 어/EC	
+파푸아뉴기니	파푸아뉴기니/NNP	상공	상공__07/NNG	장관	장관__02/NNG	내한	내한__02/NNG	/	//SP	경협	경협/NNG	증진	증진/NNG	논의	논의__02/NNG	
