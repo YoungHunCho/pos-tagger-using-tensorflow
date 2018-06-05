@@ -17,6 +17,19 @@ def _extract_body(file_name):
     txt = open(file_name, encoding='cp949').read()
     return '.'.join(re.findall(r"<body>.*</body>", txt, re.DOTALL))
 
+def _merge_text(t):
+    temp = t.split("\t")
+    if len(temp) < 3: return ""
+    txt = temp[1]
+    tagged = temp[2]
+
+    _str = txt + "\t"
+    for tag in tagged.split(" + "):
+        _str += tag.split("/")[-1]
+        _str += "_"
+    return _str[:-1]
+
+
 def _extract_text(txt, file_name):
     # for head in re.findall(r"<head>.+</head>", txt, re.DOTALL):
     #     print("-"*20)
@@ -24,7 +37,7 @@ def _extract_text(txt, file_name):
     #     temp = head.split("\n")[1:-1]
     #     print("-"*20)
     #     print(temp)
-    f = open("/".join([DATAPATH, PROCESSEDPATH, file_name]), 'w')
+    f = open("/".join([DATAPATH, PROCESSEDPATH, file_name]), 'w', encoding='utf8')
 
     from bs4 import BeautifulSoup
     soup = BeautifulSoup(txt, 'html.parser')
@@ -33,8 +46,8 @@ def _extract_text(txt, file_name):
         temp = str(temp)
         
         for t in temp.split("\n")[1:-1]:
-            _str += "\t".join(t.split('\t')[1:])
-            _str += "\t"
+            _str += _merge_text(t) + " "
+            # _str += "\t"
         _str += "\n"
     f.write(_str)
 
@@ -43,8 +56,8 @@ def _extract_text(txt, file_name):
         temp = str(temp)
         
         for t in temp.split("\n")[1:-1]:
-            _str += "\t".join(t.split('\t')[1:])
-            _str += "\t"
+            _str += _merge_text(t) + " "
+            # _str += "\t"
         _str += "\n"
     f.write(_str)
 
@@ -58,6 +71,7 @@ def preporcess():
     file_list = read_file_list("/".join([DATAPATH, ORIGINPATH]))
     for i in file_list:
         print(i)
-        _extract_text(_extract_body(i), i.split('/')[2])
+        _extract_text(_extract_body(i), i.split('\\')[1])
 
-preporcess()
+if __name__ == "__main__":
+    preporcess()
