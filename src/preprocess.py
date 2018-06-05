@@ -1,77 +1,23 @@
-import re
-import os
+from konlp.kma.klt import klt
+k = klt.KltKma()
 
-DATAPATH = 'data'
-ORIGINPATH = 'origin_data'
-PROCESSEDPATH = 'data'
+file = open("corpus.some", "r")
 
-def read_file_list(folder_path):
-    r_l = []
-    for root, dirs, files in os.walk(folder_path):
-        for fname in files:
-            r_l.append(os.path.join(root, fname))
-    return r_l
+tagged = open("tagged.some", "w")
+while(True):
+    line = file.readline()
+    if not line: break
+    
+    for words in k.analyze(line):
+        word = ""
+        tag = ""
+        word = words[0]
 
+        for tags in words[1]:
+            tag += tags[1] + "_"
+        tag = tag[:-1]
 
-def _extract_body(file_name):
-    txt = open(file_name, encoding='cp949').read()
-    return '.'.join(re.findall(r"<body>.*</body>", txt, re.DOTALL))
+        tagged.write(word + "/" + tag + " ")
+    tagged.write("\n")
 
-def _merge_text(t):
-    temp = t.split("\t")
-    if len(temp) < 3: return ""
-    txt = temp[1]
-    tagged = temp[2]
-
-    _str = txt + "\t"
-    for tag in tagged.split(" + "):
-        _str += tag.split("/")[-1]
-        _str += "_"
-    return _str[:-1]
-
-
-def _extract_text(txt, file_name):
-    # for head in re.findall(r"<head>.+</head>", txt, re.DOTALL):
-    #     print("-"*20)
-    #     print(head)
-    #     temp = head.split("\n")[1:-1]
-    #     print("-"*20)
-    #     print(temp)
-    f = open("/".join([DATAPATH, PROCESSEDPATH, file_name]), 'w', encoding='utf8')
-
-    from bs4 import BeautifulSoup
-    soup = BeautifulSoup(txt, 'html.parser')
-    _str = ""
-    for temp in soup.find_all('head'):
-        temp = str(temp)
-        
-        for t in temp.split("\n")[1:-1]:
-            _str += _merge_text(t) + " "
-            # _str += "\t"
-        _str += "\n"
-    f.write(_str)
-
-    _str = ""
-    for temp in soup.find_all('p'):
-        temp = str(temp)
-        
-        for t in temp.split("\n")[1:-1]:
-            _str += _merge_text(t) + " "
-            # _str += "\t"
-        _str += "\n"
-    f.write(_str)
-
-
-def preporcess():
-    try:
-        os.mkdir("/".join([DATAPATH, PROCESSEDPATH]))
-    except:
-        pass
-
-    file_list = read_file_list("/".join([DATAPATH, ORIGINPATH]))
-    for i in file_list:
-        print(i)
-        _extract_text(_extract_body(i), i.split('\\')[1])
-
-if __name__ == "__main__":
-    preporcess()
+tagged.close()
