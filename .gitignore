@@ -1,0 +1,4 @@
+*.txt
+*.xml
+checkpoints/
+cache/
