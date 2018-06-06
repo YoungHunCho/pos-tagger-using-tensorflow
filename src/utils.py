@@ -1,5 +1,7 @@
 import numpy as np
 from collections import Counter
+import pickle
+import os
 import re
 
 UNKNOWN_WORD_ID = 0
@@ -8,18 +10,28 @@ UNKNOWN_WORD = "UNK"
 UNTAGGED_POS_ID = 0
 UNTAGGED_POS = "UNK"
 
-VOCAB_SIZE = 50000
+VOCAB_SIZE = 100000
 
 class DataSetting:
-    def __init__(self, sentences, n_past_words):
+    def __init__(self, vocab_path, sentences, n_past_words, tensor_path=None):
         self.n_past_words = n_past_words
 
-        print("make vocab")
-        self.make_vocab(sentences)
-        
-        print("make features and labels")
-        self.make_features_and_labels(sentences)
+        if os.path.exists(vocab_path):
+            print("Load vocab")
+            self.load_vocab(vocab_path)
+        else:
+            print("make vocab")
+            self.make_vocab(sentences)
+            self.save_vocab(vocab_path)
 
+        if tensor_path is not None and os.path.exists(tensor_path):
+            print("load tensor")
+            self.load_tensors(tensor_path)
+        else:
+            print("make tensor")
+            self.make_features_and_labels(sentences)
+            if tensor_path is not None:
+                self.save_tensors(tensor_path)
 
     def make_vocab(self, tagged_sentences):
         global VOCAB_SIZE
@@ -28,23 +40,45 @@ class DataSetting:
         word_counts = Counter(words)
         unique_pos_tags = set(pos_tags)
 
-        VOCAB_SIZE = len(word_counts) // 4 * 3
-        words_to_keep = \
-            [t[0] for t in word_counts.most_common(VOCAB_SIZE - 1)]
+        words_to_keep = [t[0] for t in word_counts.most_common(VOCAB_SIZE - 1)]
 
-        self.word_to_id = \
-            {word: i for i, word in enumerate(words_to_keep, start=1)}
-        # words not in the vocabulary will be mapped to this word
-        self.word_to_id[UNKNOWN_WORD] = UNKNOWN_WORD_ID # = 0
+        self.word_to_id = {word: i for i, word in enumerate(words_to_keep, start=1)}
+        self.word_to_id[UNKNOWN_WORD] = UNKNOWN_WORD_ID
 
-        self.pos_to_id = \
-            {pos: i for i, pos in enumerate(list(unique_pos_tags), start=1)}
-        self.pos_to_id[UNTAGGED_POS] = UNTAGGED_POS_ID # = 0
+        self.pos_to_id = {pos: i for i, pos in enumerate(list(unique_pos_tags), start=1)}
+        self.pos_to_id[UNTAGGED_POS] = UNTAGGED_POS_ID
 
         self.id_to_word = {v: k for k, v in self.word_to_id.items()}
         self.id_to_pos = {v: k for k, v in self.pos_to_id.items()}
 
         self.words = words
+
+    def load_tensors(self, tensors_path):
+        with open(tensors_path, 'rb') as f:
+            tensors = pickle.load(f)
+        self.features = tensors[0]
+        self.labels = tensors[1]
+
+    def load_vocab(self, vocab_path):
+        with open(vocab_path, 'rb') as f:
+            dicts = pickle.load(f)
+        self.word_to_id = dicts[0]
+        self.pos_to_id = dicts[1]
+        self.id_to_word = dicts[2]
+        self.id_to_pos = dicts[3]
+
+    def save_vocab(self, vocab_filename):
+        dicts = [self.word_to_id,
+                 self.pos_to_id,
+                 self.id_to_word,
+                 self.id_to_pos]
+        with open(vocab_filename, 'wb') as f:
+            pickle.dump(dicts, f)
+
+    def save_tensors(self, tensors_path):
+        tensors = [self.features, self.labels]
+        with open(tensors_path, 'wb') as f:
+            pickle.dump(tensors, f)
 
     def make_features_and_labels(self, tagged_sentences):
         x , y = [], []
