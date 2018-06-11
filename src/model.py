@@ -29,8 +29,11 @@ class Tagger(object):
             _w2 = tf.Variable(tf.truncated_normal([h_size, h_size]))
             _h2 = tf.nn.relu(tf.matmul(_h1, _w2))
 
+            _w3 = tf.Variable(tf.truncated_normal([h_size, h_size]))
+            _h3 = tf.nn.relu(tf.matmul(_h2, _w3))
+
             self.w2 = tf.Variable(tf.truncated_normal([h_size, n_pos_tags], stddev=0.1))
-            self.logits = tf.matmul(_h2, self.w2)
+            self.logits = tf.matmul(_h3, self.w2)
             self.loss = tf.reduce_mean(
                     tf.nn.sparse_softmax_cross_entropy_with_logits(labels = self.input_y, logits = self.logits))
 
