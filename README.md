@@ -22,3 +22,6 @@ train.py를 실행합니다.
 학습을 완료 한 후에는. 
 > python3 run.py  
 run.py를 실행하여 해당 결과를 확인 할 수 있습니다.
+
+## result
+![](https://github.com/YoungHunCho/pos-tagger-using-tensorflow/blob/master/doc/result.jpg)
